@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Ivan Mikrukou>`
+- **CCID:** `<mikrukov>`
 
 ## References and Resources
 
